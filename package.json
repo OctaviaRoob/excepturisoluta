@@ -1,0 +1,30 @@
+{
+  "name": "excepturisoluta",
+  "version": "1.9.1",
+  "description": "A Hardhat plugin for using Jest",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OctaviaRoob/excepturisoluta.git"
+  },
+  "keywords": [
+    "quasi",
+    "aut",
+    "distinctio",
+    "ratione",
+    "blockchain",
+    "nesciunt",
+    "consequuntur",
+    "smart-contracts",
+    "aliquam"
+  ],
+  "author": "DemarioHalvorson",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "estet": "^1.1.0",
+    "voluptatumeum": "^1.0.0"
+  }
+}
